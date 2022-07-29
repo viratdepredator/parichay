@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Nuosu+SIL&family=Roboto&display=swap');
+body{
+  background-color: #FFF2F2;
+  text-align: center;
+}
+.bdy{
+  padding-left:150px;
+  padding-right:150px;
+}
+.crd{
+  text-align: center;
+  border-style: none;
+}
+.card-img-top{
+  font-size: 45px;
+  padding-bottom: 25px;
+  color: #82DBD8;
+}
+.card{
+  border-style: none;
+  background-color: #FFF2F2;
+}
+.l1{
+  display: inline;
+  font-family: 'Nuosu',sans-serif;
+  font-size: 45px;
+  color: white;
+  /* padding: 50% 0px 50px 35px; */
+}
+.r1{
+  display: inline;
+  position: absolute;
+  right:35px;
+  padding: 15px 30px 10px 0px;
+  font-family: 'Roboto',fantasy;
+}
+.hel{
+  margin:0px 20px 0px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+header{
+  margin:0px;
+  padding: 10px 0px 10px 30px;
+  background-color: #82DBD8;
+}
+#name{
+  /* font-family: 'Nuosu',sans-serif; */
+  font-size: 40px;
+  color:#82DBD8;
+}
+th{
+  font-family:"Nuosu";
+  text-decoration: none;
+}
+/* .fpara{
+  margin-left: 25%;
+  padding-right:35%;
+
+}
+.ppara{
+  margin-left: 200px;
+} */
+#im{
+  font-size: 20px;
+}
+img{
+  height:200px;
+  border-radius: 50%;
+}
+.hghltr{
+  background-color:#82DBD8;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+h2{
+  font-size: 45px;
+}
+.card{
+  display: inline-block;
+  margin-top: 45px;
+}
+hr{
+  height: 10px;
+}
